@@ -1,0 +1,7 @@
+const test = {
+  phrase: 'got em',
+  say: function (){
+  	deez.phrase
+  }
+}
+test.say()
